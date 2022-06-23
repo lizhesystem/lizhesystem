@@ -5,3 +5,8 @@
 lizhesystem/lizhesystem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Hey, lizhesystem here! :wave:
+
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=lizhesystem&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=lizhesystem&show_icons=true">](https://metrics.lecoq.io/lizhesystem#gh-light-mode-only)
