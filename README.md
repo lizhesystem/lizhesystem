@@ -7,6 +7,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
-[<img align="left" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=lizhesystem&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
-[<img align="left" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=lizhesystem&show_icons=true">](https://metrics.lecoq.io/lizhesystem#gh-light-mode-only)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lizhesystem&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizhesystem&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
