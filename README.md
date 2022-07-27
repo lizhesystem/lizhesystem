@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Z
-- 📫 How to reach me lizhesystem@126.com
-- 我最近在学习 `Typescript` 和 `Vue3`
+- 🧑🏻‍💻 I like writing code
+- I am studying `vue3` and `TypeScript` recently
 
 <!---
 lizhesystem/lizhesystem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
